@@ -69,8 +69,8 @@ dependencies {
 
     implementation "androidx.work:work-runtime-ktx:2.9.0"
 
-    implementation "io.github.jan-tennant.supabase:postgrest-kt:2.3.1"
-    implementation "io.github.jan-tennant.supabase:gotrue-kt:2.3.1"
+    implementation "io.github.jan-tennert.supabase:postgrest-kt:2.3.1"
+    implementation "io.github.jan-tennert.supabase:gotrue-kt:2.3.1"
     
     implementation "io.ktor:ktor-client-android:2.3.8"
     
